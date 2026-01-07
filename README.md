@@ -1,17 +1,16 @@
 # 💫 About Me:
-<sub>
-B.Tech Engineering student at <b>UEM Kolkata</b><br>
-Web Developer — Next.js, React, Databases<br>
-Exploring Machine Learning fundamentals
-</sub>
 
-<sub>
-🔭 Full-stack apps (clean UI, scalable architecture)<br>
-🌱 DSA, backend & ML basics<br>
-🤝 Open-source collaboration (React / Next.js / UI)<br>
-💬 Ask me about: React, Next.js, Frontend, Databases<br>
-⚡ Build → Learn → Improve
-</sub>
+
+👋 B.Tech Engineering student at **UEM Kolkata**  
+💻 Web Developer — **Next.js, React, Databases**  
+🤖 Learning **Machine Learning basics**
+
+🔭 Building full-stack web apps  
+🌱 Improving DSA & backend skills  
+🤝 Open to open-source collaboration  
+
+⚡ Learn by building 🚀
+
 
 
 ## 🌐 Socials:
