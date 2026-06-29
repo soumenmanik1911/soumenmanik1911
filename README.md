@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 
-👋 B.Tech Engineering student at **UEM Kolkata**  
+👋 B.Tech Engineering student at **IEM Kolkata**  
 💻 Web Developer — **Next.js, React, Databases**  
 🤖 Learning **Machine Learning basics**
 
